@@ -1,0 +1,84 @@
+name: Entertainment Center Docker image
+
+# Based on Clippy/main's GHCR publishing workflow.
+on:
+  push:
+    branches: [main, work]
+    paths:
+      - 'EntertainmentCenter/**'
+      - '.github/workflows/entertainment-center-docker.yml'
+  pull_request:
+    paths:
+      - 'EntertainmentCenter/**'
+      - '.github/workflows/entertainment-center-docker.yml'
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: entertainment-center-image-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Image name
+        shell: bash
+        run: echo "IMAGE=ghcr.io/${GITHUB_REPOSITORY_OWNER,,}/woodworking-entertainment-center" >> "$GITHUB_ENV"
+      - uses: docker/setup-buildx-action@v3
+      - name: Build image for smoke test
+        uses: docker/build-push-action@v6
+        with:
+          context: ./EntertainmentCenter
+          load: true
+          pull: true
+          tags: entertainment-center:test
+          cache-from: type=gha
+      - name: Test app, image, PDF and health endpoint
+        shell: bash
+        run: |
+          set -euo pipefail
+          docker run -d --name entertainment-center-test -p 127.0.0.1:18080:8080 entertainment-center:test
+          trap 'docker logs entertainment-center-test; docker rm -f entertainment-center-test' EXIT
+          for attempt in {1..20}; do
+            if curl -fsS http://127.0.0.1:18080/healthz; then break; fi
+            sleep 1
+          done
+          curl -fsS http://127.0.0.1:18080/app/ -o /tmp/app.html
+          grep -q 'The build companion\|THE BUILD COMPANION' /tmp/app.html
+          curl -fsS http://127.0.0.1:18080/assets/design-reference.png -o /tmp/reference.png
+          test -s /tmp/reference.png
+          curl -fsS http://127.0.0.1:18080/docs/entertainment-center-build-guide-rev-e-with-reference.pdf -o /tmp/guide.pdf
+          test "$(head -c 4 /tmp/guide.pdf)" = '%PDF'
+      - uses: docker/metadata-action@v5
+        id: meta
+        with:
+          images: ${{ env.IMAGE }}
+          tags: |
+            type=raw,value=latest,enable=${{ github.ref == 'refs/heads/main' }}
+            type=ref,event=branch
+            type=sha,format=long,prefix=sha-
+      - uses: docker/login-action@v3
+        if: github.event_name != 'pull_request'
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish image
+        if: github.event_name != 'pull_request'
+        uses: docker/build-push-action@v6
+        with:
+          context: ./EntertainmentCenter
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max

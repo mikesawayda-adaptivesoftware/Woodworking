@@ -39,3 +39,39 @@ Browser validation should cover selecting every bay, switching views, changing p
 ## Regenerate the PDF appendix
 
 The updated PDF is already checked in. To rebuild it, run `python3 EntertainmentCenter/tools/build_reference_pdf.py` from the repository root with `reportlab` and `pypdf` installed. These optional generation packages are not required to run the website. The script preserves the original PDF and appends one reference page.
+
+## Docker / Unraid
+
+The GitHub Actions workflow [entertainment-center-docker.yml](../.github/workflows/entertainment-center-docker.yml) follows the GHCR publishing pattern in Clippy's `main` branch. It builds and smoke-tests the container before publishing using GitHub's built-in `GITHUB_TOKEN`; no additional Actions secret is needed.
+
+Image: `ghcr.io/mikesawayda-adaptivesoftware/woodworking-entertainment-center`
+
+- Pushes to `work` publish `:work`; pushes to `main` publish `:main` and `:latest`.
+- Each published build also gets a `:sha-<full commit>` tag.
+- Pull requests build and test without publishing. The workflow can also run manually; weekly rebuilds run from GitHub's default branch. GitHub only registers scheduled/manual workflows on the default branch, so merge the workflow there to enable those triggers.
+- The supplied template uses `:work` so it can be installed before these changes reach `main`. Switch to `:latest` after merging and the first successful main build.
+
+### Install on Unraid
+
+1. Wait for **Actions → Entertainment Center Docker image** to finish successfully for your selected branch.
+2. In GitHub, open **Packages → woodworking-entertainment-center → Package settings**. If it is private, change visibility to public to allow anonymous pulls, or authenticate Unraid to GHCR with credentials that can read that package. Publishing alone does not make a new package public.
+3. Copy [deploy/unraid/entertainment-center.xml](deploy/unraid/entertainment-center.xml) to `/boot/config/plugins/dockerMan/templates-user/my-entertainment-center.xml` on Unraid.
+4. Open **Docker → Add Container**, select **entertainment-center**, and apply. Use bridge networking, leave privileged mode off, and map host port **8088** to container port **8080** (change 8088 if occupied).
+5. Open `http://YOUR-UNRAID-IP:8088/app/`. The server root also redirects to the app.
+
+No API keys or volume mappings are required. Plans and images are built into the container; checklist progress stays in each browser. Export progress before changing the hostname, protocol or port, since those changes use a separate browser storage location. Unraid's update check can pull newer images for the selected tag. No automatic updater is installed by this project.
+
+### Other Docker hosts
+
+```sh
+docker compose -f EntertainmentCenter/deploy/compose.yml up -d
+```
+
+Or build and run locally from the repository root:
+
+```sh
+docker build -t entertainment-center:local EntertainmentCenter
+docker run -d --name entertainment-center -p 8088:8080 --restart unless-stopped entertainment-center:local
+```
+
+The image serves static files with unprivileged Nginx on port 8080 and includes a `/healthz` endpoint. The app has no server-side accounts or progress database. The optional Python PDF-generation tools are not installed in the runtime image.
