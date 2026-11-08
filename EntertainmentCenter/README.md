@@ -14,6 +14,10 @@ Open `http://localhost:8000/app/` in your browser. No packages, build step, exte
 
 The app includes a selectable front elevation and plan view, sheet breakdowns, a thickness calculator, and a step-by-step checklist with PDF page references. Checkmarks and notes are stored only in the current browser, not synced to Git or other devices. Export a JSON backup and import it on another device to transfer progress. Printing includes all steps.
 
+## Buy list
+
+The website’s [buy list](app/index.html#buy-list) covers wood, connectors, lighting/power/cooling, finishes and tools. Quantities are allowances where supported by the guide; top/door/false-back stock and structural fasteners are marked for selection or measurement. Doors on the three equipment bays can be added later to the same four-box build. Purchase checkmarks persist separately in the browser; they are not included in build-progress export/import. Printing the build checklist also prints the buy list. Edit `app/shopping.js` to maintain the categorized items.
+
 ## Current design — Rev F
 
 The current reference shows four closed white inset Shaker-style doors and an open 19″ subwoofer alcove, with one 112″ joined, filled and painted-white top. The four box widths remain 26″, 26″, 20″ and 21″; box panel dimensions are unchanged. Top depth is approximately 20¼″, field-fit. Top material and thickness, four-door construction/hardware, and ventilation details remain to be finalized. Finished height is 24½″ plus the selected top thickness. Reserve extra stock for the top and three additional doors; the original three-sheet layout is not the complete revised shopping list.
