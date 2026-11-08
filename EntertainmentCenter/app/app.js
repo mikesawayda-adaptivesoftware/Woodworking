@@ -1,6 +1,6 @@
 'use strict';
 const $ = id => document.getElementById(id);
-const pdf = '../docs/entertainment-center-build-guide-rev-e.pdf';
+const pdf = '../docs/entertainment-center-build-guide-rev-e-with-reference.pdf';
 const bays = [
  {name:'Subwoofer',width:19,start:6.625,use:'Floor-standing subwoofer',detail:'Separate open-front, open-bottom surround. Its top aligns with the cabinet tops at 24½″ and supports the left end of the slab. Measure side heights at both floor bearing points; keep the sub clear of all panels.',page:11},
  {name:'A · Xbox',width:26,start:25.625,use:'Horizontal Xbox Series X',detail:'Keep the exhaust path unobstructed. Dry-fit the console with cables and rear mounting strips in place. No shelf directly over the exhaust.',page:6},

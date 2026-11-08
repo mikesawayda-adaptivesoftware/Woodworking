@@ -16,6 +16,9 @@ The app includes a selectable front elevation and plan view, sheet breakdowns, a
 
 ## Source documents
 
+- [Rev E with design reference](docs/entertainment-center-build-guide-rev-e-with-reference.pdf): the original twelve pages plus the supplied image on page 13. Existing page references remain unchanged.
+- [Design reference image](assets/design-reference.png): the exact PNG supplied in the uploaded ZIP, used on the website and in the PDF. It illustrates finishes and lighting; its bay and door arrangement does not supersede the dimensioned plan.
+
 - [Original Rev E PDF](docs/entertainment-center-build-guide-rev-e.pdf), preserved unchanged from the supplied file.
 - [Extracted text](docs/build-guide-rev-e.txt), searchable text extracted with `pdftotext -layout`.
 
@@ -23,7 +26,7 @@ The app summarizes Rev E; diagrams are dimensioned schematics, not fabrication t
 
 ## Project layout
 
-`docs/` contains source plans. `app/` contains the dependency-free companion. Project data and construction steps live in `app/app.js`; styling lives in `app/style.css`.
+`assets/` contains project reference images. `docs/` contains source plans. `app/` contains the dependency-free companion. Project data and construction steps live in `app/app.js`; styling lives in `app/style.css`.
 
 ## Checks
 
@@ -32,3 +35,7 @@ node --check EntertainmentCenter/app/app.js
 ```
 
 Browser validation should cover selecting every bay, switching views, changing plywood thickness, checklist persistence, notes, progress backup/restore, PDF links, and the mobile layout.
+
+## Regenerate the PDF appendix
+
+The updated PDF is already checked in. To rebuild it, run `python3 EntertainmentCenter/tools/build_reference_pdf.py` from the repository root with `reportlab` and `pypdf` installed. These optional generation packages are not required to run the website. The script preserves the original PDF and appends one reference page.
