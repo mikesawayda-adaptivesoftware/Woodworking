@@ -24,6 +24,7 @@ The current reference shows four closed white inset Shaker-style doors and an op
 
 - [Current Rev F PDF](docs/entertainment-center-build-guide-rev-f.pdf): revised shopping, top, door and height notes plus the latest image on page 13 and top/ventilation details on page 14.
 - [Current white-top image](assets/design-white-top.png).
+- [White top with all doors removed](assets/design-white-top-open.png): website overview and enlarged cabinet-front view. Equipment and hidden construction are illustrative; this does not change the panel cut list.
 - [Four-section open-bay comparison](assets/design-four-bays-open.png): the earlier wood-top option with three open equipment bays and only the far-right storage door. Displayed on the website for comparison; it does not replace the Rev F design.
 - Rebuild Rev F with `python3 EntertainmentCenter/tools/build_current_pdf.py` (optional generation dependencies: PyMuPDF and reportlab).
 
