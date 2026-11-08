@@ -1,6 +1,6 @@
 # Entertainment Center
 
-A white, four-module floating media cabinet with a continuous wood cap and a separate floor-supported subwoofer surround.
+A white, four-module floating media cabinet with a joined painted-white top and a separate floor-supported subwoofer surround.
 
 ## Run the build companion
 
@@ -14,15 +14,23 @@ Open `http://localhost:8000/app/` in your browser. No packages, build step, exte
 
 The app includes a selectable front elevation and plan view, sheet breakdowns, a thickness calculator, and a step-by-step checklist with PDF page references. Checkmarks and notes are stored only in the current browser, not synced to Git or other devices. Export a JSON backup and import it on another device to transfer progress. Printing includes all steps.
 
-## Source documents
+## Current design — Rev F
+
+The current reference shows four closed white inset Shaker-style doors and an open 19″ subwoofer alcove, with one 112″ joined, filled and painted-white top. The four box widths remain 26″, 26″, 20″ and 21″; box panel dimensions are unchanged. Top depth is approximately 20¼″, field-fit. Top material and thickness, four-door construction/hardware, and ventilation details remain to be finalized. Finished height is 24½″ plus the selected top thickness. Reserve extra stock for the top and three additional doors; the original three-sheet layout is not the complete revised shopping list.
+
+- [Current Rev F PDF](docs/entertainment-center-build-guide-rev-f.pdf): revised shopping, top, door and height notes plus the latest image on page 13 and top/ventilation details on page 14.
+- [Current white-top image](assets/design-white-top.png).
+- Rebuild Rev F with `python3 EntertainmentCenter/tools/build_current_pdf.py` (optional generation dependencies: PyMuPDF and reportlab).
+
+## Historical source documents
 
 - [Rev E with design reference](docs/entertainment-center-build-guide-rev-e-with-reference.pdf): the original twelve pages plus the supplied image on page 13. Existing page references remain unchanged.
-- [Design reference image](assets/design-reference.png): the exact PNG supplied in the uploaded ZIP, used on the website and in the PDF. It illustrates finishes and lighting; its bay and door arrangement does not supersede the dimensioned plan.
+- [Design reference image](assets/design-reference.png): the exact PNG supplied in the uploaded ZIP, retained with the historical PDF. It illustrates finishes and lighting; its bay and door arrangement does not supersede the dimensioned plan.
 
 - [Original Rev E PDF](docs/entertainment-center-build-guide-rev-e.pdf), preserved unchanged from the supplied file.
 - [Extracted text](docs/build-guide-rev-e.txt), searchable text extracted with `pdftotext -layout`.
 
-The app summarizes Rev E; diagrams are dimensioned schematics, not fabrication templates. It does not calculate structural capacity. Permanent mounting-strip joinery, wall fasteners, blocking connections, the Denon outlet adaptation, and slab movement details remain to be specified for the actual installation. Door hardware part numbers changed in the earlier conversation and are intentionally not presented as a verified purchase list.
+The app follows Rev F; diagrams are dimensioned schematics, not fabrication templates. It does not calculate structural capacity. Permanent mounting-strip joinery, wall fasteners, blocking connections, the Denon outlet adaptation, and final top-joint/fastening details remain to be specified for the actual installation. Door hardware part numbers changed in the earlier conversation and are intentionally not presented as a verified purchase list.
 
 ## Project layout
 

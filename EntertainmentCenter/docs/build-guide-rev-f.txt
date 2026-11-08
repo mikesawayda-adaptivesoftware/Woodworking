@@ -1,0 +1,606 @@
+FLOATING ENTERTAINMENT CENTER                                                                                                             SHOP DRAWINGS / REV F
+
+
+
+
+Shopping list and cut schedule
+Four separate plywood boxes | 93 wide x 16 high x 20 deep before trim and joined white top
+
+
+
+   BUY FOR THE FOUR CABINET BOXES
+   3 sheets of nominal 3/4" cabinet plywood cover the original boxes, shelves, surround and one door blank.
+   Reserve additional stock for the joined white top and remaining three doors; finalize material and thickness first.
+   Do not buy the former 10 ft butcher-block blank. Finished top target: 112" x about 20 1/4", field-fit.
+   Trim: two straight 8 ft poplar strips for long rails, plus matching stock for five short strips.
+
+
+CUT FROM SHEETS 1 AND 2
+
+  ID            PART                                                                     QTY            FINISHED SIZE OR BLANK
+
+
+  A/B           Xbox and Denon tops and bottoms                                          4              26 x 20
+
+  C             Switch 2 top and bottom                                                  2              20 x 20
+
+  D             Storage top and bottom                                                   2              21 x 20
+
+  S             Sides, two per box                                                       8              H x 20 | calculate H below
+
+  SH            Storage shelf and optional Switch shelf                                  2              20 x 20 blanks | fit after assembly
+
+
+   MEASURE THE PLYWOOD BEFORE CUTTING THE SIDES
+   H = 16 minus the actual thickness of that box's top and bottom combined.
+   True 3/4" stock gives H = 14 1/2". True 23/32" stock gives H = 14 9/16".
+   These cuts assume square butt joints, with the sides fitted between full-width tops and bottoms.
+
+
+
+Match thicknesses across the boxes. If you change to joinery that recesses either panel into another,
+recalculate the affected cut dimensions first.
+Build sequence: boxes p. 6 | mounting strips p. 7 | install p. 8 | finish and alcove pp. 9-11 | Sheet 3 p. 12
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                                           1 / 14
+FLOATING ENTERTAINMENT CENTER                                                                                                                  SHOP DRAWINGS / REV F
+
+
+
+
+Plywood breakdown
+Repeat the same layout on Sheet 1 and Sheet 2. Sheet 3 stays whole.
+
+
+For transport, ask for one rough crosscut near the midpoint of each 96-inch sheet.
+Keep both halves at least 47 inches long along the original 96-inch direction.
+
+
+          HALF A / ONE PER SHEET                                                               HALF B / ONE PER SHEET
+                     ~48 along original sheet length                                                        ~48 along original sheet length
+
+
+
+
+   20"
+                       26                       20 shelf                                 20"
+                                                                                                          21                     20
+                       x 20                       x 20                                                    x 20                   x 20
+
+
+
+
+   20"
+                       26                        H                                       20"
+                                                                                                      H                 H               H
+                       x 20                     x 20                                                 x 20              x 20             x 20
+
+
+
+
+                              Save the offcut                                                                       Save the offcut
+
+
+
+
+1. Square a reference end and edge. Rip two 20-inch strips from each half along the original sheet length.
+2. Crosscut the parts in the order shown. H is the measured side height from page 1.
+3. Measure each part from the new cut edge and put the saw kerf on the waste side. Label the parts by bay.
+The longest strip needs 46 inches of parts. The 47-inch minimum allows 1/8-inch kerfs and a light squaring cut.
+
+
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                                                2 / 14
+FLOATING ENTERTAINMENT CENTER                                                                                                                       SHOP DRAWINGS / REV F
+
+
+
+
+Front elevation
+Centered on the 125 1/4-inch wall | Four boxes and one separate subwoofer surround
+
+
+                                                                                   125 1/4 wall
+
+
+                                                                 112 assembly / joined painted-white top
+
+                                         White top: thickness TBD
+
+
+
+
+                    Subwoofer                       A Xbox                            B Denon                   C Switch 2                  D Storage
+                       19 wide                       26 wide                            26 wide                   20 wide                     21 wide
+
+
+
+
+                                                                                                                              8 1/2" below floating boxes
+
+
+     Carpet
+
+WALL POSITIONS FROM THE LEFT EDGE
+
+SUBWOOFER                           A / XBOX                             B / DENON                         C / SWITCH 2                        D / STORAGE
+6 5/8 to 25 5/8                     25 5/8 to 51 5/8                     51 5/8 to 77 5/8                  77 5/8 to 97 5/8                    97 5/8 to 118 5/8
+
+
+
+
+   REFERENCE ELEVATIONS ABOVE CARPET
+   Box bottom 8 1/2". Box top 24 1/2". Finished height = 24 1/2" + selected top thickness.
+   Draft outlet group is 56 1/2 to 63 1/4 from the left and 9 3/4 to 14 1/2 above carpet.
+   Verify the wall, studs and outlets on site before using these positions for mounting or openings.
+
+
+Current direction: four inset doors, one per floating bay; subwoofer stays open. See pages 13-14.
+
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                                                         3 / 14
+FLOATING ENTERTAINMENT CENTER                                                                                         SHOP DRAWINGS / REV F
+
+
+
+
+Parts to fit after assembly
+Measure the installed boxes before cutting finish parts, hardware openings or the wall support.
+
+
+01 Poplar face trim
+Use 1/4" thickness for the slim front we discussed. Fit two continuous horizontal rails across the 93" run.
+Cut three seam covers and two end strips to fit between the rails. Seam covers are about 1 1/2 wide.
+Match each strip to the plywood edges so the trim sits flush with the bay openings. Size rails to cover the edges.
+
+
+
+02 Shelves and four inset doors
+Fit the shelf blanks to the assembled openings. Target about 18" depth where the hardware and cables permit.
+Fit one inset door per bay (four total). Subtract 1/4" from each measured opening for 1/8" reveals.
+Verify that reveal with the chosen hinges. Test the 35 mm hinge cups and plate setback on scrap with the trim.
+For a knob or pull and self-closing hinges, set the adjustable stop after aligning the door flush with the trim.
+
+
+
+03 Joined painted-white top
+Join shorter panels into one finished white top spanning all 112". Place the seam over solid support.
+Target 112" x about 20 1/4"; material and thickness TBD. Finished height = 24 1/2" + top thickness.
+Set the alcove support flush with the plywood tops so it supports the cap independently of the subwoofer.
+Retain all box tops. Stabilize the seam mechanically before filling, sanding, priming and painting. See p. 14.
+
+
+
+04 Backs, surround and wall support
+Keep the Denon rear open for outlets, plugs and airflow. Size any removable liners and storage back after test fit.
+Keep the subwoofer floor-supported. Measure it with cords attached before cutting its separate surround.
+See pages 5-8 for the ledger, box assembly, mounting strips and direct fastening sequence.
+
+
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                       4 / 14
+FLOATING ENTERTAINMENT CENTER                                                                                                                    SHOP DRAWINGS / REV F
+
+
+
+
+Temporary installation ledger
+Direct mounting to wood studs and in-wall blocking | Install the boxes one at a time
+
+
+   CUT ONE STRAIGHT NOMINAL 2 x 4 TO 93 INCHES
+
+   Buy one 8 ft board. Place its wide face against the wall so it projects 1 1/2" under the rear of each box.
+   Set its top edge at the 8 1/2" cabinet-bottom line. The planned span is 25 5/8" to 118 5/8" from the left wall.
+   Transfer one level line from the carpet reference used on page 3. Check floor clearance across the run.
+
+
+SIDE VIEW / SCHEMATIC                                                                      SET UP AND FASTEN
+     Wall
+                                                                          Front            1   Mark verified wood studs at ledger height and check
+                                                                                               for wiring below the Denon outlets. Secure the ledger
+                                                                                               into studs with suitable wood fasteners.
+
+
+                               Empty cabinet box                                           2   Rest the rear edge of one empty box on the ledger.
+                                                                                               Use a stable, floor-supported platform under the front
+                                                                                               at the same height. Have a helper steady the box.
+
+                                                                                           3   Level and shim the box. Drive permanent fasteners
+                     2 x 4 at rear                                                             through its upper and lower rear strips into verified
+                                                                                               studs or secured in-wall blocking. Repeat for each box.
+
+                                     Floor support at front                       8 1/2"   4   Align and join the boxes. Once permanently secured,
+                                                                                               remove the ledger and platform, patch the screw holes,
+                                                                                               then fit the alcove support and cap before loading.
+
+
+         Carpet reference
+
+
+
+   The ledger is temporary. Confirm permanent blocking, strip joinery and wall fasteners for the loaded cabinet.
+   Keep the Denon outlet plates and plugs accessible when locating its lower attachment.
+
+
+Reference: Cardell installation guide, temporary ledger and front brace
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                                                  5 / 14
+FLOATING ENTERTAINMENT CENTER                                                                                                          SHOP DRAWINGS / REV F
+
+
+
+
+Assemble the four plywood boxes
+Build A, B, C and D separately. All boxes are 16 high x 20 deep before finish trim.
+
+
+   USE KREG POCKET HOLES FOR THE PLYWOOD BOX JOINTS
+   Use coarse-thread screws for plywood. A 1 1/4" Kreg screw is the starting size for true 3/4" plywood.
+   Set the jig and drill stop for your measured stock. Test on two offcuts before drilling the finished parts.
+
+
+
+FRONT VIEW OF ONE BOX                                                          01 Mark and drill
+                                                                               Label each panel by box, front edge and inside face.
+                                                                               Drill pockets on the inside face near both ends of each side.
+                                   FULL-WIDTH TOP
+                                                                               Distribute them along the 20-inch depth and keep the rear
+                                                                               strip and cleat hardware clear of the pocket locations.
+
+                                                                               02 Glue, clamp and drive
+                     Sides fit between the top and bottom.
+                                                                               Dry-fit the four panels first. Apply wood glue to mating
+                 Pocket screws enter the face of each panel.
+                                                                               edges, clamp on a flat bench, and align the front edges.
+                                                                               Drive the pocket screws with a drill clutch set low enough
+                                                                               to seat the heads cleanly without stripping the plywood.
+
+                                FULL-WIDTH BOTTOM
+                                                                               03 Check for square
+     Pocket directions shown. The drawing omits the rear strips.
+                                                                               Compare both diagonals and adjust until they match.
+                                                                               Check for twist on the bench and confirm the box is 16 high.
+                                                                               Dry-fit the rear strips while the box is square.
+
+
+
+   CHECK EACH BOX BEFORE MOVING ON
+   Confirm the outside width and depth, flush front edges, and square corners. Fit strips to each actual opening.
+
+
+
+Kreg pocket screw selection and jig setup
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                                        6 / 14
+FLOATING ENTERTAINMENT CENTER                                                                                                                   SHOP DRAWINGS / REV F
+
+
+
+
+Build in the mounting strips
+One upper and one lower strip in each box | Standard detail assumes a clear rear opening
+
+
+REAR VIEW / ONE BOX                                                                Fit both strips to the assembled box
+                                                                                   Use straight, dry solid stock. Nominal 2 x 4 is the
+                                                                                   layout allowance shown here (1 1/2 x 3 1/2 actual).
+                                                                                   Set the upper strip against the underside of the top
+                              UPPER MOUNTING STRIP                                 and the lower strip on the top face of the bottom.
+
+
+                                                                                   Tie the strips into the box
+                                      Open center                                  Fit solid-wood cleats inside at the strip ends. Each
+                                                                                   cleat bears on the inside face of the side and on the
+                                                                                   strip. Glue bare mating faces and mechanically fasten
+                                                                                   into both members. Tie the upper strip to the top and
+                                                                                   the lower strip to the bottom with screws through the
+                              LOWER MOUNTING STRIP
+                                                                                   outer plywood face into the solid strip. Verify the joint.
+
+                                                                                   Lay out fasteners before drilling
+   Wide faces face the wall. Fit the rear faces flush with the box.                Keep cleats, pocket screws and wall screw paths clear
+                                                                                   of one another. Pocket screws may help with assembly.
+CUT AFTER MEASURING THE BOXES                                                      Verify the strip joints and fasteners for the hanging load.
+
+
+   A / 2 at ~24 1/2                                  B / 2 at ~24 1/2                  C / 2 at ~18 1/2                        D / 2 at ~19 1/2
+
+
+Strip length = outside box width minus both actual side thicknesses. Lengths above assume true 3/4 sides.
+Allow two straight 8 ft 2 x 4s for the eight strips if this stock is approved, plus separate stock for the cleats.
+Dry-fit the strips and all gear before assembly. Adapt the Denon lower strip to the actual outlet opening.
+
+
+
+The temporary 93-inch 2 x 4 on page 5 is a separate board.
+
+AWI reference for structural cabinet anchor strips
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                                                 7 / 14
+FLOATING ENTERTAINMENT CENTER                                                                                        SHOP DRAWINGS / REV F
+
+
+
+
+Mount and join the cabinet boxes
+Direct fastening through the rear strips into wood studs and secured in-wall blocking
+
+
+
+   LAY OUT PERMANENT FASTENERS BEFORE PATCHING THE WALL
+   Use the wall positions on page 3 and the 8 1/2" cabinet-bottom line. Transfer the actual rear strip locations.
+   Provide spaced upper and lower fastening points for each box. Add blocking where those points miss studs.
+   Verify blocking attachment, strip joints, and wall fasteners for the combined box, cap and equipment load.
+
+
+
+01 Open and document the wall
+Check for wiring and shut off the affected circuit before opening the wall near the outlet group.
+Secure the blocking to the framing. Record the stud centers and blocking limits from the left wall
+and the same height reference, photograph them with a tape in view, then patch the drywall.
+
+
+02 Set each box on temporary supports
+Use the rear ledger and front platform on page 5. Set an empty box in place with a helper.
+Align it to the elevation, check level and plumb, and shim at the anchorage points as needed.
+
+
+03 Fasten and align
+Fasten through the upper and lower strips into verified studs or blocking with specified cabinet anchorage screws.
+Check the next box against the first. Clamp adjacent sides so the faces sit flush and join them with cabinet
+connector screws sized for the two side panels. Verify that the screw tips stay inside the paired panels.
+
+
+04 Remove temporary support
+Confirm the permanent attachments in every box before removing the temporary ledger and platform.
+Patch the ledger screw holes. Keep all equipment and the slab off the boxes until the supports are ready.
+
+
+
+AWI wall cabinet anchorage reference                           ESFI guidance for cutting and drilling near wiring
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                      8 / 14
+FLOATING ENTERTAINMENT CENTER                                                                                      SHOP DRAWINGS / REV F
+
+
+
+Fit shelves, trim and four inset doors
+Finish the visible parts after the boxes are aligned and the actual openings are known
+
+
+01 Dry-fit equipment and shelving
+Place the receiver and consoles in their bays with cables attached. Check rear clearance and ventilation.
+Trim the two shelf blanks to the finished openings. Allow clearance for shelf hardware and door swing.
+Use about 18" shelf depth where the hardware, airflow and cables permit. Fit storage backs or removable
+liners only after the wall attachments are checked. Keep Denon plugs and fasteners accessible.
+
+
+02 Fit the poplar face trim
+Cut two continuous horizontal rails from 8 ft stock. Fit the three vertical seam covers and two end strips
+between them. The trim is 1/4" thick. Size each piece to cover the plywood edges and preserve bay openings.
+Dry-fit the rails and stiles with the boxes clamped flush. Glue to clean wood, clamp or pin, then fill and sand.
+
+
+03 Build and hang four inset doors
+Fit four inset doors to the installed trim openings; Shaker styling is shown in the current reference.
+Material, thickness and hardware remain to be selected before door cutting and hinge drilling.
+For 1/8" reveals, subtract 1/4" from each opening dimension; confirm against hinge specifications.
+Test on scrap. Provide room-air intake and exhaust for enclosed equipment; see page 14.
+
+
+
+04 Prep and paint
+Fill plywood edges and visible fastener holes, sand, prime, then apply warm white cabinet paint.
+Paint and let parts cure before fitting lights, door hardware and electronics. Keep glue surfaces bare
+until the trim has been attached. Protect the painted face while fitting the top.
+
+
+   ORDER OF FIT
+   Align boxes, fit shelves and trim, measure all four doors, then finish. Keep doors removable for adjustment.
+
+
+
+Blum inset hinge types and specifications
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                    9 / 14
+FLOATING ENTERTAINMENT CENTER                                                                                      SHOP DRAWINGS / REV F
+
+
+
+
+Support the alcove and fit the cap
+One joined painted-white top | Current finish and top details on pages 13-14
+
+
+01 Build the separate alcove support
+Lay out the 19" left zone from page 3. Test-fit the floor-standing subwoofer with plugs and cables attached.
+Use the field-fit surround detail on page 11. Measure the actual unit and allow cable and vent clearance.
+Build the surround so its load-bearing top is in the same plane as the cabinet tops, about 24 1/2" above carpet.
+Verify the surround carries its share of slab weight independently. Leave clearance around the subwoofer.
+
+
+02 Join and finish the white top
+Field-fit the 112" length and approximately 20 1/4" depth after the boxes and surround are aligned.
+Locate the panel seam over a supported cabinet area. Stabilize the joint with substrate-appropriate joinery
+and backing where needed, then fill, sand, prime and paint. Filler is cosmetic, not the joint connection.
+Retain the plywood box tops. Finalize stock, thickness, joinery and fastening before cutting; see page 14.
+
+
+
+03 Fit lighting and route cables
+Retain the warm underside lighting; interior lights are optional behind opaque doors. Test wiring first.
+Provide a low room-air intake and a separate exhaust back to the room; inter-bay holes alone do not cool.
+Keep drivers, fans, controllers and cables accessible and clear of hinges, fasteners and hot equipment.
+
+
+
+04 Load and check
+Check that the boxes are secure, the face seams are flush, and the door moves freely.
+Set the equipment in place, verify plug access and airflow, and test the lighting and speakers.
+Make the final fit check with the subwoofer standing on the carpet, clear of the surround.
+
+
+
+   FIELD-FIT PARTS
+   The alcove support, Denon outlet opening, and permanent fastener schedule depend on the actual wall and gear.
+
+
+Current joined-top and ventilation details: page 14 (replaces butcher-block guidance).
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                    10 / 14
+FLOATING ENTERTAINMENT CENTER                                                                                                     SHOP DRAWINGS / REV F
+
+
+
+
+Assemble the subwoofer surround
+Field-fit detail | Separate floor-supported surround with an open front and bottom
+
+
+FRONT VIEW / SCHEMATIC                                                    01 Measure the actual opening
+                                                                          Start with the nominal 19" wide x 20" deep zone.
+                                                                          Check the subwoofer with its cables connected and
+                                PLYWOOD TOP
+                                                                          the actual front trim in place. Measure the floor
+                                                                          at both support points before cutting the sides.
+
+
+                                                                          02 Cut and assemble
+                                                                          Fit a full-width plywood top and two sides from page 12.
+                                                                          Side height = installed cabinet top elevation minus the top
+                                                                          panel thickness and any firm leveling pad under that side.
+                                                                          Use the pocket-hole procedure on page 6 for the top joints.
+
+
+                                                                          03 Brace and level the surround
+                                 Subwoofer
+                                                                          Fit a rear stretcher between the sides near the top and secure
+                                rests on carpet
+                                                                          it into both sides to keep the surround square. Keep the rear
+                                                                          cord and vent area clear. Level on stable bearing points and
+                                                                          verify the bracing and wall restraint for the cap load.
+
+
+                          19 nominal outside width                        04 Check fit before setting the slab
+                                                                          Set a straightedge across the cabinet tops and surround.
+                   Cap and rear bracing omitted for clarity.
+                                                                          Adjust until both supports share a plane and the subwoofer
+                                                                          has clearance from every surround panel.
+
+
+   FIT TO THE INSTALLED CABINETS
+   Use the measured cabinet-top height for the side cuts. The 24 1/2-inch elevation is the drawing reference.
+
+
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                                   11 / 14
+FLOATING ENTERTAINMENT CENTER                                                                                                                            SHOP DRAWINGS / REV F
+
+
+
+
+Cut the third plywood sheet
+Original Sheet 3 layout: surround and ONE door blank only. Extra door/top stock required.
+
+
+
+   MAKE ROUGH BLANKS, THEN TRIM TO THE INSTALLED OPENINGS
+   Option for transport: crosscut the sheet near the middle of its 96" length. Keep both halves at least 47" long.
+   Square one edge and end on each half, then rip one 20 1/2" strip along the original sheet length.
+
+
+
+HALF A                                                                                         HALF B
+                       ~48" along original sheet length                                                               ~48" along original sheet length
+
+
+             Alcove side 1                            Alcove top                                             Alcove side 2                       Inset door
+              25" x 20 1/2"                           20" x 20 1/2"                                           25" x 20 1/2"                      20" x 20 1/2"
+
+
+
+Crosscut both strips at 25" and 20". Each uses 45 1/4" with two 1/8" kerfs, before end squaring.
+From a wide remainder, cut one 20" x 5" rough rear stretcher blank. Save the other offcuts.
+
+
+TRIM TO FIT
+
+  Alcove top                      Target 19" wide x 20" deep. Match the installed depth and the width of the surround.
+
+  Alcove sides                    Target 20" deep. Height = local floor-to-cabinet-top height minus top thickness and leveling pad.
+
+  Rear stretcher                  Fit between the sides. At 19" outside and true 3/4" sides, the length is 17 1/2".
+
+  Inset door                      Measure after face trim. For a 1/8" reveal on each edge, subtract 1/4" from width and height.
+
+
+With a 24 1/2" cabinet-top height, true 3/4" plywood and zero pad thickness, the alcove sides would be 23 3/4" tall.
+Measure both sides separately. Fit the stretcher height and placement to the bracing and cable clearance on page 11.
+Reserve extra stock for three more doors and the joined top; this layout is not the full revised shopping list.
+
+
+
+
+All dimensions in inches | Use written dimensions for cuts                                                                                                          12 / 14
+ENTERTAINMENT CENTER / REV F
+
+
+Current design: four doors and a white top
+
+
+
+
+Four floating bays: Xbox 26", Denon 26", Switch 20", storage 21". Separate 19" open subwoofer alcove.
+The image shows the selected finish and door arrangement. Top thickness is illustrative; dimensions govern cuts.
+Rev F replaces the butcher-block purchase and one-door finish plan. Box panel dimensions are unchanged.
+                                                                                                                   13 / 14
+ENTERTAINMENT CENTER / REV F
+
+
+Joined white top: decisions and assembly
+01 Confirm the substrate and finished height
+Target one finished 112" x approximately 20 1/4" top, made from shorter joined panels.
+Material and thickness are not selected. Paint-grade plywood or MDF need different edge and joint treatment.
+Keep all existing box tops and the surround top. Finished elevation = 24 1/2" + chosen top thickness.
+The previous 26" height applies only to a 1 1/2" top. Reserve additional top and door stock before buying.
+
+
+02 Support and stabilize the seam before filling
+Dry-fit after mounting, leveling and joining the boxes. Place the seam over solid support, away from a box joint.
+Use joinery suitable for the substrate and backing where needed; keep both panel faces coplanar.
+Biscuits or splines can help alignment; filler alone cannot connect the panels or prevent movement cracks.
+Check fastener depth and access from below. Do not cut mounting strips, cleats or box joints for seam hardware.
+
+
+03 Fill, sand, prime and paint
+Follow the selected adhesive cure time. Fill the stable seam with a compatible paint-grade filler and sand flush.
+Seal exposed edges, prime and sand as the coating system requires, then paint the top uniformly white.
+Finish exposed faces and underside as appropriate for the substrate. Let coatings cure before placing speakers.
+A filled seam can telegraph later if the panels move; plan the joint and support before committing to a finish.
+
+
+04 Four doors and enclosed-equipment cooling
+Current visual direction: one inset Shaker-style white door on each floating bay; subwoofer stays open.
+Fit doors after face trim. Three additional doors and top stock are not included in the original three-sheet layout.
+Select door material, hinges and opening method; do not drill from the rendering. Verify hardware on scrap.
+Provide low intake air from the room and exhaust back into the room, with fans if required for the heat load.
+Inter-bay openings only connect the airflow path. Confirm equipment clearances and test temperatures closed.
+Vent routes, fan sizes and structural mounting details remain to be finalized before drilling or loading.
+
+
+
+
+                                                                                                                       14 / 14
+

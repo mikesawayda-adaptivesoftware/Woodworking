@@ -54,9 +54,9 @@ jobs:
           done
           curl -fsS http://127.0.0.1:18080/app/ -o /tmp/app.html
           grep -q 'The build companion\|THE BUILD COMPANION' /tmp/app.html
-          curl -fsS http://127.0.0.1:18080/assets/design-reference.png -o /tmp/reference.png
+          curl -fsS http://127.0.0.1:18080/assets/design-white-top.png -o /tmp/reference.png
           test -s /tmp/reference.png
-          curl -fsS http://127.0.0.1:18080/docs/entertainment-center-build-guide-rev-e-with-reference.pdf -o /tmp/guide.pdf
+          curl -fsS http://127.0.0.1:18080/docs/entertainment-center-build-guide-rev-f.pdf -o /tmp/guide.pdf
           test "$(head -c 4 /tmp/guide.pdf)" = '%PDF'
       - uses: docker/metadata-action@v5
         id: meta
