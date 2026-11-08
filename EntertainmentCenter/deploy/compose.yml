@@ -1,0 +1,7 @@
+services:
+  entertainment-center:
+    image: ghcr.io/mikesawayda-adaptivesoftware/woodworking-entertainment-center:work
+    container_name: entertainment-center
+    restart: unless-stopped
+    ports:
+      - "8088:8080"

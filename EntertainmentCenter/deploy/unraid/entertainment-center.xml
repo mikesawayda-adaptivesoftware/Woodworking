@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>entertainment-center</Name>
+  <Repository>ghcr.io/mikesawayda-adaptivesoftware/woodworking-entertainment-center:work</Repository>
+  <Registry>https://github.com/mikesawayda-adaptivesoftware/Woodworking/pkgs/container/woodworking-entertainment-center</Registry>
+  <Network>bridge</Network>
+  <Privileged>false</Privileged>
+  <Support>https://github.com/mikesawayda-adaptivesoftware/Woodworking</Support>
+  <Project>https://github.com/mikesawayda-adaptivesoftware/Woodworking</Project>
+  <Overview>Entertainment center plans, design reference, cut layouts and a step-by-step build checklist. Progress is saved in your browser; export backups to transfer it between devices.</Overview>
+  <Category>HomeAutomation: Tools:</Category>
+  <WebUI>http://[IP]:[PORT:8080]/app/</WebUI>
+  <Config Name="Web UI port" Target="8080" Default="8088" Mode="tcp" Description="Host port for the build companion; choose an unused port" Type="Port" Display="always" Required="true" Mask="false">8088</Config>
+</Container>
